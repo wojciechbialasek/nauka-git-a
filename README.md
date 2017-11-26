@@ -1,5 +1,5 @@
 # Git Nauka
-Projekt do nauki Git-a  aoc
+Projekt do nauki Git-a  i początki pythona
 
 ## Getting Started
 
